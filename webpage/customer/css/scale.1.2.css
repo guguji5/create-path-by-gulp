@@ -1,0 +1,56 @@
+.topnavbar .navbar-header .brand-logo {
+    display: block;
+    padding: 15px 15px;
+}
+@media only screen and (min-width: 768px){
+   .wrapper > .aside .aside-inner {
+	    padding-top: 67px;
+	}
+	.layout-fixed .wrapper > section {
+	    margin-top: 67px;
+	    font-size: larger;
+	  }
+	.wrapper > section, .wrapper > footer {
+	    margin-left: 250px;
+	}
+	.offsidebar {
+	    margin-top: 67px;
+	}
+}
+
+
+.wrapper > .aside {
+	width:250px;
+	font-size:larger;
+}
+.wrapper > .aside .aside-inner {
+	width:250px;
+}
+.sidebar > .nav > li > a, .sidebar > .nav > li > .nav-item {
+    padding: 6px 16px;
+    font-size: 18px;
+}
+.btn {
+    border-radius: 0px;
+    padding: 9px 15px;
+    height: 40px;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+	padding: 11px;
+}
+.form-control {
+    height: 40px;
+}
+.content-wrapper > h3 {
+    font-size: 22px;
+}
+.title {
+    font-size: 18px;
+}
+.offsidebar{
+	font-size: larger;
+    /* line-height: 1.4; */
+}
+.fa{
+	font-size: large !important;
+}
